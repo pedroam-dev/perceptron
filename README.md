@@ -261,10 +261,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 - Dataset Iris: Fisher, R.A. (1936). The use of multiple measurements in taxonomic problems.
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/iris
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## 👤 Autor
 
 **Pedro AM** - [@pedroam-dev](https://github.com/pedroam-dev)
